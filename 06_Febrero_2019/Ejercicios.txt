@@ -1,0 +1,3 @@
+Ejercicio 1: Intente acceder dentro de la función principal main a los datos privados, ya sea para leer y/o
+escribir e indique lo que sucede.
+¿Por qué se necesitan miembros privados en una clase?
