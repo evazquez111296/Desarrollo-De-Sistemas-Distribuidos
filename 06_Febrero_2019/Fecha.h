@@ -10,5 +10,7 @@ public:
   void inicializaFecha(int,int,int);
   void muestraFecha();
   long convierte();
+  bool leapyr(int);
+  int anios();
 };
 #endif
